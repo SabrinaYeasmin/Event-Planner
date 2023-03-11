@@ -1,1 +1,1 @@
-# Event-Planner
+# Event-Planner (Final Project)
